@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonMehran
+- 👋 Hi, I’m Mehran
 - 👀 I’m interested in Python and Web Application 
 - 🌱 I’m a Django Developer
 - 💞️ I’m looking to collaborate on Python related projects
